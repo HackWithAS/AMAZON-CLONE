@@ -2,6 +2,7 @@
     margin: 0;
     font-family: Arial;
     border: border-box;
+    
 
 }
 .navbar{
@@ -20,8 +21,8 @@
   .logo{
     background-image: url("Amazon-Logo.webp");
     background-size: cover ;
-    height : 55px;
-    width: 155px;
+    height : 54px;
+    width: 154px;
 }
 
 .border {
